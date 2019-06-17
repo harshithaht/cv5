@@ -67,8 +67,6 @@
   </table>
 </div>
     <div class="col-sm-4" style="background-color:lavenderblush;">Techinical skills</div>
-
-
 <div class="container">
 	<br>
   <h4>Languages known</h4>
@@ -79,14 +77,14 @@
     
   </ul>
 </div>
-    <div class="col-sm-4" style="background-color:lavender;"> Workshop </div>
+   
+   <div class="col-sm-4" style="background-color:lavender;"> Workshop </div>
 <br>
 <li>Attended the workshop of Artifical intelligence </li>
 <li>Attended the workshop of latex </li>
 
 
-  </div>
-</div>
+ 
 
 <div class="col-sm-4" style="background-color:lavenderblush;"> Intrests </div>
 <br>
@@ -109,7 +107,6 @@
     <button type="submit" class="btn btn-default">Submit</button>
   </form>
 </div>
-
 </body>
 </html>
 

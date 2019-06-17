@@ -15,6 +15,10 @@
   <h1>Resume</h1>
   
 </div>
+<div class="container">
+        
+ <img src="harshitha.jpg" class="img-rounded" alt="Harshitha's profile pic" width="304" height="236">  
+</div>
 
 <div class="media">
     <div class="media-left">
@@ -28,10 +32,7 @@
   <hr>
 
 
-<div class="container">
-        
- <img src="harshitha.jpg" class="img-rounded" alt="Harshitha's profile pic" width="304" height="236">  
-</div>
+
 
 <div class="container-fluid">
   <div class="row">

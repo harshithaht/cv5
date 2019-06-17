@@ -1,5 +1,5 @@
 # cv5
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Bootstrap Example</title>
@@ -79,16 +79,16 @@
     
   </ul>
 </div>
-    <div class="col-sm-4" style="background-color:lavender;">Workshop</div>
+    <div class="col-sm-4" style="background-color:lavender;"> Workshop </div>
 <br>
-<li>Attended the workshop of Artifical intelligence</li>
-<li>Attended the workshop of latex</li>
+<li>Attended the workshop of Artifical intelligence </li>
+<li>Attended the workshop of latex </li>
 
 
   </div>
 </div>
 
-<div class="col-sm-4" style="background-color:lavenderblush;">Intrests</div>
+<div class="col-sm-4" style="background-color:lavenderblush;"> Intrests </div>
 <br>
 <li>Travelling</li>
 <li>Dancing</li>
